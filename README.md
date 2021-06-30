@@ -1,6 +1,6 @@
 # <img src="./src/assets/images/logo.png" width="60" height="50" /> Find a Coach 
 
-## [Live Demo](https://www.youtube.com/watch?v=CvsKmp0oAo4)
+## [Live Demo](https://youtu.be/B2CjWKQFaiw)
 ## What is Find a Coach?
 - A coach booking application that allow you to find your suitable coach depend on your fields of learning to help you with your career.
 - The main purpose of this project is to practice Vue, VueX and Vuex's support ecosystem with its best practice.
