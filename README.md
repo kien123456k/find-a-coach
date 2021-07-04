@@ -3,9 +3,9 @@
 ## [Live Demo](https://youtu.be/B2CjWKQFaiw)
 ## What is Find a Coach?
 - A coach booking application that allow you to find your suitable coach depend on your fields of learning to help you with your career.
-- The main purpose of this project is to practice Vue, VueX and Vuex's support ecosystem with its best practice.
-- Therefore, this application should be used for production because it's created to be quite simple so as for everyone easy to understand the workflow.
-You can consider using Burger Booking for produciton if only you improve it.
+- The main purpose of this project is to practice Vue, VueX and Vuex's support ecosystem with its best practices.
+- Therefore, this application `shouldn't be used for production` because it's created to be quite simple so as for everyone easy to understand the workflow.
+You can consider using `Find a Coach` for produciton if only `you improve it`.
 
 ## Technology
 - Frontend
